@@ -1,12 +1,11 @@
+![Header](./header.png)
+
 # 💫 About Me
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 🔭 **Currently Working On**  
 AI/ML and Analytics Projects  
-
-🧠 **Looking For Help With**  
-Advanced Machine Learning techniques and deploying AI models  
 
 🌱 **Currently Learning**  
 MLOps and its integration into real-world projects  
