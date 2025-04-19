@@ -4,9 +4,10 @@
 
 <!-- <img align="right" width="370" height="290" src="me.png"> -->
 <!-- <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"> -->
-<div style="width: 370px; height: 290px; overflow: hidden; position: relative;">
+<div style="width: 370px; height: 290px; overflow: hidden; position: relative; float: right;">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" style="object-fit: cover; width: 100%; height: 100%; position: absolute;" />
 </div>
+
 
 🔭 **Currently Working On**  
 AI/ML and Analytics Projects  
