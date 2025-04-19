@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <br><br>🔭 **I’m working on**: AI/ML and Analytics Projects<br><br>🧠 **I’m looking for help with**: Advanced Machine Learning techniques and deploying AI models<br><br>🌱 **I’m currently learning**: MLOps and its integration into real-world projects<br><br>💬 **Ask me about**: Data Science, Machine Learning, AI project development, and Data Analytics<br><br>⚡ **Fun fact**: I love solving real-world problems with data and building innovative AI solutions!<br><br>💼 **Experience**:  <br>- **Python Developer Intern** at Satyukt Analytics for 5 months  <br>- **Data Analyst Intern** at Novintix for 2 months<br><br>🎓 **Education**: MSc in Data Science at CIT<br><br>
 
 
