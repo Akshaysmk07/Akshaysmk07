@@ -39,9 +39,13 @@ I love solving real-world problems with data and building innovative AI solution
 ![LeetCode Stats](https://leetcard.jacoblin.cool/akshay00617737?theme=dark&font=Noto%20Sans%20Duployan&ext=heatmap)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akshaysmk07&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Akshaysmk07&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Akshaysmk07&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaysmk07&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaysmk07&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+![](https://github-readme-stats.vercel.app/api?username=Akshaysmk07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Akshaysmk07&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaysmk07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshaysmk07&bg_color=0d0d0d&color=ffffff&line=48920c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
