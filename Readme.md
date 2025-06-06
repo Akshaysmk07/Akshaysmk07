@@ -8,9 +8,6 @@
 🔭 **Currently Working On**  
 AI/ML and Analytics Projects  
 
-🌱 **Currently Learning**  
-MLOps and its integration into real-world projects  
-
 💬 **Ask Me About**  
 Data Science, Machine Learning, AI project development, and Data Analytics  
 
